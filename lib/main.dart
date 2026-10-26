@@ -57,7 +57,7 @@ class _TelaCatalogoState extends State<TelaCatalogo> {
       descricao:
           'Um dos jardins de praia mais conhecidos do mundo, ideal para caminhar e apreciar o mar.',
       imagem:
-          'https://images.unsplash.com/photo-1500375592092-40eb2168fd21',
+          'https://d1q5r6jf4yxfe1.cloudfront.net/public/Imagem/2021/10/14/jardim_da_orla_de_santos_1.jpg',
     ),
     PontoTuristico(
       nome: 'Museu do Café',
@@ -65,7 +65,7 @@ class _TelaCatalogoState extends State<TelaCatalogo> {
       descricao:
           'Localizado no antigo edifício da Bolsa Oficial do Café, conta a história do café no Brasil.',
       imagem:
-          'https://images.unsplash.com/photo-1445116572660-236099ec97a0',
+          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/94/d5/97/museu-do-cafe.jpg?w=1200&h=1200&s=1',
     ),
     PontoTuristico(
       nome: 'Morro do Maluf',
@@ -73,7 +73,7 @@ class _TelaCatalogoState extends State<TelaCatalogo> {
       descricao:
           'Um mirante com vista para a Praia da Enseada e para o litoral de Guarujá.',
       imagem:
-          'https://images.unsplash.com/photo-1507525428034-b723cf961d3e',
+          'https://imgmd.net/images/v1/guia/5057755/morro-do-maluf-mirante-do-morro-da-campina.jpg',
     ),
     PontoTuristico(
       nome: 'Parque Estadual Xixová-Japuí',
@@ -81,7 +81,7 @@ class _TelaCatalogoState extends State<TelaCatalogo> {
       descricao:
           'Área de preservação ambiental com Mata Atlântica, trilhas e paisagens naturais.',
       imagem:
-          'https://images.unsplash.com/photo-1448375240586-882707db888b',
+          'https://tse1.mm.bing.net/th/id/OIP.JcEF6UE-E0bWhaS0C52LwAHaF6?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
     ),
     PontoTuristico(
       nome: 'Fortaleza de Itaipu',
@@ -89,7 +89,7 @@ class _TelaCatalogoState extends State<TelaCatalogo> {
       descricao:
           'Construção histórica de defesa militar situada em uma região de belas paisagens.',
       imagem:
-          'https://images.unsplash.com/photo-1464822759023-fed622ff2c3b',
+          'https://tse1.mm.bing.net/th/id/OIP.aAVSQ9MfiIh9ilpo6dO39QHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
     ),
     PontoTuristico(
       nome: 'Forte São João',
@@ -97,7 +97,7 @@ class _TelaCatalogoState extends State<TelaCatalogo> {
       descricao:
           'Uma das fortificações mais antigas do Brasil, com importância histórica e cultural.',
       imagem:
-          'https://images.unsplash.com/photo-1469474968028-56623f02e42e',
+          'https://tse4.mm.bing.net/th/id/OIP.qqoMbZuIjrl3TTe3HgjINwHaDt?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
     ),
     PontoTuristico(
       nome: 'Cama de Anchieta',
@@ -105,7 +105,7 @@ class _TelaCatalogoState extends State<TelaCatalogo> {
       descricao:
           'Formação rochosa à beira-mar associada à história do Padre José de Anchieta.',
       imagem:
-          'https://images.unsplash.com/photo-1519046904884-53103b34b206',
+          'https://farm9.staticflickr.com/8240/8660541189_5b6ad5284e_h.jpg',
     ),
   ];
 
