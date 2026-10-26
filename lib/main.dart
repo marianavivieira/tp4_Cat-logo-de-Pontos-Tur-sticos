@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
 
-// Aluna: Mariana Vieira
+// Aluna: Mariana Alves Carvalho Vieira
 
 void main() {
   runApp(const Principal());
@@ -205,7 +205,7 @@ class _TelaCatalogoState extends State<TelaCatalogo> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Mariana Vieira'),
+        title: const Text('Mariana Alves Carvalho Vieira'),
         backgroundColor: Colors.teal,
         foregroundColor: Colors.white,
       ),
